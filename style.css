@@ -4,9 +4,25 @@
     font-family: "Pangolin", cursive;
 }
 
+body{
+    background-image: linear-gradient(to bottom right,red,darkred);
+}
+
 .title{
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100vw;
+}
+
+.nav{
+    display: flex;
+    align-items: right;
+    width: 100vw;
+}
+
+.btn{
+    padding: 10px;
+    width: fit-content;
+    background-image: linear-gradient(yellow,orange);
 }
