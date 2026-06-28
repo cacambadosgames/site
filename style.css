@@ -40,7 +40,7 @@ body{
     text-decoration: none;
     padding: 10px;
     width: fit-content;
-    background-image: linear-gradient(yellow,rgb(200, 130, 0));
+    background-image: linear-gradient(yellow,rgb(255, 100, 0));
     border-radius: 5px;
     box-shadow: 5px 5px 10px black;
 }
@@ -60,7 +60,7 @@ body{
 .sec{
     display: flex;
     flex-direction: column;
-    background-image: linear-gradient(yellow,rgb(200, 130, 0));
+    background-image: linear-gradient(yellow,rgb(255, 100, 0));
     border-radius: 10px;
     margin: 10px;
     padding: 10px;
