@@ -71,15 +71,13 @@ body{
     box-shadow: 5px 5px 10px;
     gap: 10px;
     width: fit-content;
+    max-width: 50rem;
+    cursor: pointer;
     align-items: center;
 }
 
 .sec:hover{
     transform: scale(1.1);
-}
-
-.sec:hover > #hid{
-    display: block;
 }
 
 .sec img{
@@ -96,8 +94,4 @@ body{
 
 .sec h2{
     width: fit-content;
-}
-
-#hid{
-    display: none;
 }
