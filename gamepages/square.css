@@ -22,7 +22,7 @@ body{
 .sec{
     display: flex;
     flex-direction: column;
-    background-image: linear-gradient(rgb(239, 173, 32),rgb(73, 47, 0));
+    background-image: linear-gradient(rgb(192, 134, 8),rgb(73, 47, 0));
     border-radius: 10px;
     margin: 10px;
     margin-top: 30px;
